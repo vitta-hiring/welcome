@@ -34,11 +34,25 @@ Your solution will be the mirror of your professional and academic carrer, pleas
 
 Choose your challenge below:
 
-|||
-|:---:|:---:|
-| [Back-End](https://github.com/vitta-hiring/case-back-end) | Design (soon) |
-| DevOps & Infrastructure (soon) | [Front-End](https://github.com/vitta-hiring/case-front-end) |
-| Quality Assurance (soon) |
+| Back-End |
+|:---:|
+| [link](https://github.com/vitta-hiring/case-back-end) |
+
+| Design |
+|:---:|
+| (soon) |
+
+| DevOps & Infrastructure |
+|:---:|
+| (soon) |
+
+| Front-End |
+|:---:|
+| [link](https://github.com/vitta-hiring/case-front-end) |
+
+| Quality Assurance |
+|:---:|
+| (soon) |
 
 ### Delivering your solution
 
