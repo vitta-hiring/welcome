@@ -58,9 +58,9 @@ Choose your challenge below:
 
 Pretty simple!
 
-1. Save your solution on a public `Github` repository as `vc`-`cc` `vv`-`nn` where:
+1. Save your solution on a public `Github` repository as `vc`-`c` `v`-`n` where:
     1. **Attention!** If I choose the back-end challenge Square of Squares (BE2) I'd name my repository as `vc-be2.0-ff`.
-    1. `cc` is the challenge you chosed! Example: `be` for back-end, `fe` for front-end, etc! Check at the challenge's page!
-    1. `vv` is the version of the challenge! It can be `1.0`, `1.1`, `2.0`!
-    1. `nn` are the initials of your name! Filipe Forattini would be `ff`!  
+    1. `c` is the challenge you chosed! Example: `be` for back-end, `fe` for front-end, etc! Check at the challenge's page!
+    1. `v` is the version of the challenge! It can be `1.0`, `1.1`, `2.0`!
+    1. `n` are the initials of your name! Filipe Forattini would be `ff`!  
 1. Send an e-mail to `recrutamento@vitta.me` with the link to the repository;
