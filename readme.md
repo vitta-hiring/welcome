@@ -33,8 +33,8 @@ Your solution will be the mirror of your professional and academic carrer, pleas
 
 Choose your challenge below:
 
-- [Back-End](https://github.com/vitta-hiring/case-backend/readme.md)
-- [Front-End](https://github.com/vitta-hiring/case-frontend/desafio.pdf)
+- [Back-End](https://github.com/vitta-hiring/case-back-end)
+- [Front-End](https://github.com/vitta-hiring/case-front-end)
 - DevOps & Infrastructure (soon)
 - Design (soon)
 
