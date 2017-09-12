@@ -1,18 +1,26 @@
 <img src="logo_black.png"/>
 
 
+
 # Vitta Hiring
 
 Glad to meet you friend!
 
 We are more than happy to see you are interested on our challenge!
 
-You can get to know more about us [following our blog](https://blog.vitta.me/) (in pt-BR).
+
+#### About Vitta
+
+You can get to know more about us!
+
+| [Blog](https://blog.vitta.me/) (in pt-BR) | [Facebook](https://www.facebook.com/vitta.me/) | [LinkedIn](https://www.linkedin.com/company/3990515/) |
+|:---:|:---:|:---:|
 
 
 ## Open positions
 
 You can check them out following this link [jobs.lever.co/vitta](jobs.lever.co/vitta)!
+
 
 
 ## Worth reading
@@ -29,14 +37,15 @@ Your solution will be the mirror of your professional and academic carrer, pleas
 - Try always to make services as independent and separated as possible;
 
 
+
 ## Challenges
 
 Choose your challenge below:
 
 - [Back-End](https://github.com/vitta-hiring/case-back-end)
-- [Front-End](https://github.com/vitta-hiring/case-front-end)
-- DevOps & Infrastructure (soon)
 - Design (soon)
+- DevOps & Infrastructure (soon)
+- [Front-End](https://github.com/vitta-hiring/case-front-end)
 
 
 ### Delivering your solution
