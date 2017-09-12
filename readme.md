@@ -2,14 +2,14 @@
 
 
 
-# Vitta Hiring
+# Vitta
 
 Glad to meet you friend!
 
 We are more than happy to see you are interested on our challenge!
 
 
-#### About Vitta
+## About Us
 
 You can get to know more about us!
 
@@ -17,7 +17,7 @@ You can get to know more about us!
 |:---:|:---:|:---:|
 
 
-## Open positions
+### Open positions
 
 You can check them out following this link [jobs.lever.co/vitta](jobs.lever.co/vitta)!
 
