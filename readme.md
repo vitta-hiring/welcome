@@ -34,25 +34,13 @@ Your solution will be the mirror of your professional and academic carrer, pleas
 
 Choose your challenge below:
 
-| Back-End |
-|:---:|
-| [link](https://github.com/vitta-hiring/case-back-end) |
-
-| Design |
-|:---:|
-| (soon) |
-
-| DevOps & Infrastructure |
-|:---:|
-| (soon) |
-
-| Front-End |
-|:---:|
-| [link](https://github.com/vitta-hiring/case-front-end) |
-
-| Quality Assurance |
-|:---:|
-| (soon) |
+| Your role | |
+|:---:|:---:|
+| Back-End | [2.0](https://github.com/vitta-hiring/case-back-end) |
+| Design | (soon) |
+| DevOps & Infrastructure | (soon) |
+| Front-End | [1.0](https://github.com/vitta-hiring/case-front-end) |
+| Quality Assurance | (soon) |
 
 ### Delivering your solution
 
@@ -64,4 +52,5 @@ Pretty simple!
     1. `n` are the initials of your name! Filipe Forattini would be `ff`!  
    
    **Attention!** If I choose the back-end challenge Square of Squares (BE2) I'd name my repository as `vc-be2.0-ff`.
-1. Send an e-mail to `recrutamento@vitta.me` with the link to the repository;
+1. Send an e-mail to `recrutamento@vitta.me` with the link to your repository;
+1. Good luck and do your best!
