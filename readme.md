@@ -10,8 +10,11 @@ We are more than happy to see you are interested on our challenge!
 
 You can get to know more about us!
 
-| [Blog](https://blog.vitta.me/) (in pt-BR) | [Facebook](https://www.facebook.com/vitta.me/) | [LinkedIn](https://www.linkedin.com/company/3990515/) |
-|:---:|:---:|:---:|
+| Media | |
+|:---:|:---:|
+| **Blog** and news! | [blog in pt-BR](https://blog.vitta.me/) |
+| **Facebook** page | [link](https://www.facebook.com/vitta.me/) |
+| **LinkedIn** and opportunities! | [link](https://www.linkedin.com/company/3990515/) |
 
 ### Open positions
 
