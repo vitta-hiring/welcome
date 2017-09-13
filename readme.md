@@ -36,10 +36,10 @@ Choose your challenge below:
 
 | Your role | |
 |:---:|:---:|
-| Back-End | [2.0](https://github.com/vitta-hiring/case-back-end) |
+| Back-End | [Square of Squares 2.0](https://github.com/vitta-hiring/case-back-end) |
 | Design | (soon) |
 | DevOps & Infrastructure | (soon) |
-| Front-End | [1.0](https://github.com/vitta-hiring/case-front-end) |
+| Front-End | [ToDo List 1.0](https://github.com/vitta-hiring/case-front-end) |
 | Quality Assurance | (soon) |
 
 ### Delivering your solution
@@ -49,7 +49,7 @@ Pretty simple!
 1. Save your solution on a public `Github` repository as `vc`-`c` `v`-`n` where:
     1. `c` is the challenge you chosed! Example: `be` for back-end, `fe` for front-end, etc! Check at the challenge's page!
     1. `v` is the version of the challenge! It can be `1.0`, `1.1`, `2.0`!
-    1. `n` are the initials of your name! Filipe Forattini would be `ff`!  
+    1. `n` are the initials of your name! So Filipe Forattini would be `ff`!  
    
    **Attention!** If I choose the back-end challenge Square of Squares (BE2) I'd name my repository as `vc-be2.0-ff`.
 1. Send an e-mail to `recrutamento@vitta.me` with the link to your repository;
